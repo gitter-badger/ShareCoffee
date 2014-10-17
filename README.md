@@ -1,4 +1,5 @@
 # ShareCoffee
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ShareCoffee/ShareCoffee?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ShareCoffee is a lightweight library for creating SharePoint Apps. It’s fully written in CoffeeScript by using Mocha, Chai and SinonJS.
 
